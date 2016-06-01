@@ -1,0 +1,64 @@
+Title         : Statistics: Making Sense of Data
+Author        : Bluefocus BigData
+Logo          : False
+
+[TITLE]
+
+# A first look at data
+
+* Data processing and cleaning
+  - vlookup
+  - merge & join
+  - binning, basic and enhanced data dictionary
+* Exploring data.
+  - Dscrete vs continueous 
+  - Stems and leaves
+  - Frequency Histograms 
+  - Relative Frequency Histograms and Polygons 
+  - ......
+* Centers and spreads.
+  - Variation & Deviation Values
+  - Mean Absolute Deviation & Standard Deviation
+  - kurtosis & skewness
+  - ......
+* Relationships.
+  - Scatter Plots 
+  - Graphs of Linear Relationships
+  - Relation and Causation
+  - Linear Regression: An Informal Visual Approach 
+  - ......
+
+#Collecting data 
+* Sampling
+* Data missing, outlier and data transformation(box-cox, continueous-->discrete)
+* Observational studies and experiment
+* The effect of confounding and concluding causation
+
+#Probability 
+* Probability models
+* The normal distribution
+* The Law of Large Numbers, the Central Limit Theorem
+* Sampling distributions
+* Using Samples to Decide on Hypotheses about Populations 
+
+#Confidence Intervals 
+* Confidence intervals
+* Sample size estimation for proportions and means
+
+#Tests of significance 
+* Tests of significance
+* Power and sample size estimation for proportions and means
+* Chi-Square Testing
+  - Is the Die Fair? 
+  - How Big a Difference Makes a Difference? 
+
+#Two samples
+* Tests of significance and confidence intervals for proportions and means in the two sample case
+
+#Simple linear regression 
+* Method of least squares, evaluating model fit, the effects of outliers and influential observations
+
+
+#Data mining/Text mining
+
+[Statistics: Making Sense of Data]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
